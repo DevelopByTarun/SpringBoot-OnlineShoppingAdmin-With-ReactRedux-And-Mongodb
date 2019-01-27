@@ -1,0 +1,754 @@
+2018-12-13 19:37:21 DEBUG ProductAspect:29 - 
+2018-12-13 19:37:21 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:37:21 IST 2018
+2018-12-13 19:37:21 DEBUG ProductAspect:32 - 
+2018-12-13 19:37:21 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:37:21 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 101465066
+2018-12-13 19:37:21 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710041557
+2018-12-13 19:37:21 DEBUG ProductAspect:162 - 
+2018-12-13 19:37:21 DEBUG ProductAspect:163 - 
+2018-12-13 19:37:24 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:37:24 DEBUG ProductAspect:174 - Method End Time Is :: 1544710044178
+2018-12-13 19:37:24 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 2621 MilliSeconds
+2018-12-13 19:37:24 DEBUG ProductAspect:176 - 
+2018-12-13 19:37:24 DEBUG ProductAspect:177 - 
+2018-12-13 19:37:37 DEBUG ProductAspect:29 - 
+2018-12-13 19:37:37 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:37:37 IST 2018
+2018-12-13 19:37:37 DEBUG ProductAspect:32 - 
+2018-12-13 19:37:37 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:37:37 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1469826470
+2018-12-13 19:37:37 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710057249
+2018-12-13 19:37:37 DEBUG ProductAspect:162 - 
+2018-12-13 19:37:37 DEBUG ProductAspect:163 - 
+2018-12-13 19:37:37 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:37:37 DEBUG ProductAspect:174 - Method End Time Is :: 1544710057554
+2018-12-13 19:37:37 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 305 MilliSeconds
+2018-12-13 19:37:37 DEBUG ProductAspect:176 - 
+2018-12-13 19:37:37 DEBUG ProductAspect:177 - 
+2018-12-13 19:38:19 DEBUG ProductAspect:29 - 
+2018-12-13 19:38:19 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:38:19 IST 2018
+2018-12-13 19:38:19 DEBUG ProductAspect:32 - 
+2018-12-13 19:38:19 DEBUG ProductAspect:43 - Method Name Is :: saveProduct
+2018-12-13 19:38:19 DEBUG ProductAspect:44 - Method Storing Memory Location Code Is :: 491079565
+2018-12-13 19:38:19 DEBUG ProductAspect:45 - Method Start Time Is :: 1544710099051
+2018-12-13 19:38:19 DEBUG ProductAspect:46 - 
+2018-12-13 19:38:19 DEBUG ProductAspect:47 - 
+2018-12-13 19:38:19 DEBUG ProductAspect:57 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:38:19 DEBUG ProductAspect:58 - Method End Time Is :: 1544710099312
+2018-12-13 19:38:19 DEBUG ProductAspect:59 - Method Total Time Taken Is :: 261 MilliSeconds
+2018-12-13 19:38:19 DEBUG ProductAspect:60 - 
+2018-12-13 19:38:19 DEBUG ProductAspect:61 - 
+2018-12-13 19:38:27 DEBUG ProductAspect:29 - 
+2018-12-13 19:38:27 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:38:27 IST 2018
+2018-12-13 19:38:27 DEBUG ProductAspect:32 - 
+2018-12-13 19:38:27 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:38:27 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1734060847
+2018-12-13 19:38:27 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710107163
+2018-12-13 19:38:27 DEBUG ProductAspect:162 - 
+2018-12-13 19:38:27 DEBUG ProductAspect:163 - 
+2018-12-13 19:38:27 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:38:27 DEBUG ProductAspect:174 - Method End Time Is :: 1544710107520
+2018-12-13 19:38:27 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 357 MilliSeconds
+2018-12-13 19:38:27 DEBUG ProductAspect:176 - 
+2018-12-13 19:38:27 DEBUG ProductAspect:177 - 
+2018-12-13 19:38:36 DEBUG ProductAspect:29 - 
+2018-12-13 19:38:36 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:38:36 IST 2018
+2018-12-13 19:38:36 DEBUG ProductAspect:32 - 
+2018-12-13 19:38:36 DEBUG ProductAspect:130 - Method Name Is :: getProduct
+2018-12-13 19:38:36 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 51209546
+2018-12-13 19:38:36 DEBUG ProductAspect:132 - Method Start Time Is :: 1544710116139
+2018-12-13 19:38:36 DEBUG ProductAspect:133 - 
+2018-12-13 19:38:36 DEBUG ProductAspect:134 - 
+2018-12-13 19:38:36 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:38:36 DEBUG ProductAspect:145 - Method End Time Is :: 1544710116421
+2018-12-13 19:38:36 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 282 MilliSeconds
+2018-12-13 19:38:36 DEBUG ProductAspect:147 - 
+2018-12-13 19:38:36 DEBUG ProductAspect:148 - 
+2018-12-13 19:38:47 DEBUG ProductAspect:29 - 
+2018-12-13 19:38:47 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:38:47 IST 2018
+2018-12-13 19:38:47 DEBUG ProductAspect:32 - 
+2018-12-13 19:38:47 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:38:47 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 459353737
+2018-12-13 19:38:47 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710127310
+2018-12-13 19:38:47 DEBUG ProductAspect:162 - 
+2018-12-13 19:38:47 DEBUG ProductAspect:163 - 
+2018-12-13 19:38:47 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:38:47 DEBUG ProductAspect:174 - Method End Time Is :: 1544710127585
+2018-12-13 19:38:47 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 275 MilliSeconds
+2018-12-13 19:38:47 DEBUG ProductAspect:176 - 
+2018-12-13 19:38:47 DEBUG ProductAspect:177 - 
+2018-12-13 19:41:31 DEBUG ProductAspect:29 - 
+2018-12-13 19:41:31 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:41:31 IST 2018
+2018-12-13 19:41:31 DEBUG ProductAspect:32 - 
+2018-12-13 19:41:31 DEBUG ProductAspect:101 - Method Name Is :: deleteProduct
+2018-12-13 19:41:31 DEBUG ProductAspect:102 - Method Storing Memory Location Code Is :: 744568863
+2018-12-13 19:41:31 DEBUG ProductAspect:103 - Method Start Time Is :: 1544710291084
+2018-12-13 19:41:31 DEBUG ProductAspect:104 - 
+2018-12-13 19:41:31 DEBUG ProductAspect:105 - 
+2018-12-13 19:41:31 DEBUG ProductAspect:115 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:41:31 DEBUG ProductAspect:116 - Method End Time Is :: 1544710291406
+2018-12-13 19:41:31 DEBUG ProductAspect:117 - Method Total Time Taken Is :: 322 MilliSeconds
+2018-12-13 19:41:31 DEBUG ProductAspect:118 - 
+2018-12-13 19:41:31 DEBUG ProductAspect:119 - 
+2018-12-13 19:41:34 DEBUG ProductAspect:29 - 
+2018-12-13 19:41:34 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:41:34 IST 2018
+2018-12-13 19:41:34 DEBUG ProductAspect:32 - 
+2018-12-13 19:41:34 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:41:34 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1525341789
+2018-12-13 19:41:34 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710294092
+2018-12-13 19:41:34 DEBUG ProductAspect:162 - 
+2018-12-13 19:41:34 DEBUG ProductAspect:163 - 
+2018-12-13 19:41:34 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:41:34 DEBUG ProductAspect:174 - Method End Time Is :: 1544710294329
+2018-12-13 19:41:34 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 237 MilliSeconds
+2018-12-13 19:41:34 DEBUG ProductAspect:176 - 
+2018-12-13 19:41:34 DEBUG ProductAspect:177 - 
+2018-12-13 19:42:18 DEBUG ProductAspect:29 - 
+2018-12-13 19:42:18 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:42:18 IST 2018
+2018-12-13 19:42:18 DEBUG ProductAspect:32 - 
+2018-12-13 19:42:18 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:42:18 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 675495198
+2018-12-13 19:42:18 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710338478
+2018-12-13 19:42:18 DEBUG ProductAspect:162 - 
+2018-12-13 19:42:18 DEBUG ProductAspect:163 - 
+2018-12-13 19:42:18 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:42:18 DEBUG ProductAspect:174 - Method End Time Is :: 1544710338822
+2018-12-13 19:42:18 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 344 MilliSeconds
+2018-12-13 19:42:18 DEBUG ProductAspect:176 - 
+2018-12-13 19:42:18 DEBUG ProductAspect:177 - 
+2018-12-13 19:42:21 DEBUG ProductAspect:29 - 
+2018-12-13 19:42:21 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:42:21 IST 2018
+2018-12-13 19:42:21 DEBUG ProductAspect:32 - 
+2018-12-13 19:42:21 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:42:21 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1132693495
+2018-12-13 19:42:21 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710341857
+2018-12-13 19:42:21 DEBUG ProductAspect:162 - 
+2018-12-13 19:42:21 DEBUG ProductAspect:163 - 
+2018-12-13 19:42:22 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:42:22 DEBUG ProductAspect:174 - Method End Time Is :: 1544710342201
+2018-12-13 19:42:22 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 344 MilliSeconds
+2018-12-13 19:42:22 DEBUG ProductAspect:176 - 
+2018-12-13 19:42:22 DEBUG ProductAspect:177 - 
+2018-12-13 19:42:25 DEBUG ProductAspect:29 - 
+2018-12-13 19:42:25 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:42:25 IST 2018
+2018-12-13 19:42:25 DEBUG ProductAspect:32 - 
+2018-12-13 19:42:25 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:42:25 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 683677890
+2018-12-13 19:42:25 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710345469
+2018-12-13 19:42:25 DEBUG ProductAspect:162 - 
+2018-12-13 19:42:25 DEBUG ProductAspect:163 - 
+2018-12-13 19:42:25 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:42:25 DEBUG ProductAspect:174 - Method End Time Is :: 1544710345795
+2018-12-13 19:42:25 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 326 MilliSeconds
+2018-12-13 19:42:25 DEBUG ProductAspect:176 - 
+2018-12-13 19:42:25 DEBUG ProductAspect:177 - 
+2018-12-13 19:42:29 DEBUG ProductAspect:29 - 
+2018-12-13 19:42:29 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:42:29 IST 2018
+2018-12-13 19:42:29 DEBUG ProductAspect:32 - 
+2018-12-13 19:42:29 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:42:29 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 549903178
+2018-12-13 19:42:29 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710349625
+2018-12-13 19:42:29 DEBUG ProductAspect:162 - 
+2018-12-13 19:42:29 DEBUG ProductAspect:163 - 
+2018-12-13 19:42:29 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:42:29 DEBUG ProductAspect:174 - Method End Time Is :: 1544710349875
+2018-12-13 19:42:29 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 250 MilliSeconds
+2018-12-13 19:42:29 DEBUG ProductAspect:176 - 
+2018-12-13 19:42:29 DEBUG ProductAspect:177 - 
+2018-12-13 19:49:33 DEBUG ProductAspect:29 - 
+2018-12-13 19:49:33 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:49:33 IST 2018
+2018-12-13 19:49:33 DEBUG ProductAspect:32 - 
+2018-12-13 19:49:33 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:49:33 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 492035933
+2018-12-13 19:49:33 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710773120
+2018-12-13 19:49:33 DEBUG ProductAspect:162 - 
+2018-12-13 19:49:33 DEBUG ProductAspect:163 - 
+2018-12-13 19:49:36 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:49:36 DEBUG ProductAspect:174 - Method End Time Is :: 1544710776262
+2018-12-13 19:49:36 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 3142 MilliSeconds
+2018-12-13 19:49:36 DEBUG ProductAspect:176 - 
+2018-12-13 19:49:36 DEBUG ProductAspect:177 - 
+2018-12-13 19:49:39 DEBUG ProductAspect:29 - 
+2018-12-13 19:49:39 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 13 19:49:39 IST 2018
+2018-12-13 19:49:39 DEBUG ProductAspect:32 - 
+2018-12-13 19:49:39 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-13 19:49:39 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 404573939
+2018-12-13 19:49:39 DEBUG ProductAspect:161 - Method Start Time Is :: 1544710779861
+2018-12-13 19:49:39 DEBUG ProductAspect:162 - 
+2018-12-13 19:49:39 DEBUG ProductAspect:163 - 
+2018-12-13 19:49:40 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-13 19:49:40 DEBUG ProductAspect:174 - Method End Time Is :: 1544710780122
+2018-12-13 19:49:40 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 261 MilliSeconds
+2018-12-13 19:49:40 DEBUG ProductAspect:176 - 
+2018-12-13 19:49:40 DEBUG ProductAspect:177 - 
+2018-12-20 17:05:02 DEBUG AdminUserAspect:29 - 
+2018-12-20 17:05:02 DEBUG AdminUserAspect:31 - Method Is Calling On :: Thu Dec 20 17:05:02 IST 2018
+2018-12-20 17:05:02 DEBUG AdminUserAspect:32 - 
+2018-12-20 17:05:02 DEBUG AdminUserAspect:72 - Method Name Is :: adminUserLogin
+2018-12-20 17:05:02 DEBUG AdminUserAspect:73 - Method Storing Memory Location Code Is :: 1493056118
+2018-12-20 17:05:02 DEBUG AdminUserAspect:74 - Method Start Time Is :: 1545305702793
+2018-12-20 17:05:02 DEBUG AdminUserAspect:75 - 
+2018-12-20 17:05:02 DEBUG AdminUserAspect:76 - 
+2018-12-20 17:05:05 DEBUG AdminUserAspect:86 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.AdminUserService
+2018-12-20 17:05:05 DEBUG AdminUserAspect:87 - Method End Time Is :: 1545305705427
+2018-12-20 17:05:05 DEBUG AdminUserAspect:88 - Method Total Time Taken Is :: 2634 MilliSeconds
+2018-12-20 17:05:05 DEBUG AdminUserAspect:89 - 
+2018-12-20 17:05:05 DEBUG AdminUserAspect:90 - 
+2018-12-20 17:05:22 DEBUG ProductAspect:29 - 
+2018-12-20 17:05:22 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:05:22 IST 2018
+2018-12-20 17:05:22 DEBUG ProductAspect:32 - 
+2018-12-20 17:05:22 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:05:22 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 55153363
+2018-12-20 17:05:22 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305722514
+2018-12-20 17:05:22 DEBUG ProductAspect:162 - 
+2018-12-20 17:05:22 DEBUG ProductAspect:163 - 
+2018-12-20 17:05:22 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:05:22 DEBUG ProductAspect:174 - Method End Time Is :: 1545305722789
+2018-12-20 17:05:22 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 275 MilliSeconds
+2018-12-20 17:05:22 DEBUG ProductAspect:176 - 
+2018-12-20 17:05:22 DEBUG ProductAspect:177 - 
+2018-12-20 17:05:48 DEBUG ProductAspect:29 - 
+2018-12-20 17:05:48 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:05:48 IST 2018
+2018-12-20 17:05:48 DEBUG ProductAspect:32 - 
+2018-12-20 17:05:48 DEBUG ProductAspect:130 - Method Name Is :: getProduct
+2018-12-20 17:05:48 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 514963645
+2018-12-20 17:05:48 DEBUG ProductAspect:132 - Method Start Time Is :: 1545305748540
+2018-12-20 17:05:48 DEBUG ProductAspect:133 - 
+2018-12-20 17:05:48 DEBUG ProductAspect:134 - 
+2018-12-20 17:05:48 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:05:48 DEBUG ProductAspect:145 - Method End Time Is :: 1545305748777
+2018-12-20 17:05:48 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 237 MilliSeconds
+2018-12-20 17:05:48 DEBUG ProductAspect:147 - 
+2018-12-20 17:05:48 DEBUG ProductAspect:148 - 
+2018-12-20 17:06:03 DEBUG ProductAspect:29 - 
+2018-12-20 17:06:03 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:06:03 IST 2018
+2018-12-20 17:06:03 DEBUG ProductAspect:32 - 
+2018-12-20 17:06:03 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:06:03 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1866353712
+2018-12-20 17:06:03 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305763995
+2018-12-20 17:06:03 DEBUG ProductAspect:162 - 
+2018-12-20 17:06:03 DEBUG ProductAspect:163 - 
+2018-12-20 17:06:15 DEBUG ProductAspect:29 - 
+2018-12-20 17:06:15 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:06:15 IST 2018
+2018-12-20 17:06:15 DEBUG ProductAspect:32 - 
+2018-12-20 17:06:15 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:06:15 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 570296030
+2018-12-20 17:06:15 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305775564
+2018-12-20 17:06:15 DEBUG ProductAspect:162 - 
+2018-12-20 17:06:15 DEBUG ProductAspect:163 - 
+2018-12-20 17:06:25 DEBUG ProductAspect:29 - 
+2018-12-20 17:06:25 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:06:25 IST 2018
+2018-12-20 17:06:25 DEBUG ProductAspect:32 - 
+2018-12-20 17:06:25 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:06:25 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1225080426
+2018-12-20 17:06:25 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305785398
+2018-12-20 17:06:25 DEBUG ProductAspect:162 - 
+2018-12-20 17:06:25 DEBUG ProductAspect:163 - 
+2018-12-20 17:06:25 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:06:25 DEBUG ProductAspect:174 - Method End Time Is :: 1545305785585
+2018-12-20 17:06:25 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 187 MilliSeconds
+2018-12-20 17:06:25 DEBUG ProductAspect:176 - 
+2018-12-20 17:06:25 DEBUG ProductAspect:177 - 
+2018-12-20 17:06:35 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:06:35 DEBUG ProductAspect:174 - Method End Time Is :: 1545305795404
+2018-12-20 17:06:35 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 10006 MilliSeconds
+2018-12-20 17:06:35 DEBUG ProductAspect:176 - 
+2018-12-20 17:06:35 DEBUG ProductAspect:177 - 
+2018-12-20 17:06:37 DEBUG ProductAspect:29 - 
+2018-12-20 17:06:37 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:06:37 IST 2018
+2018-12-20 17:06:37 DEBUG ProductAspect:32 - 
+2018-12-20 17:06:37 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:06:37 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1241623689
+2018-12-20 17:06:37 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305797301
+2018-12-20 17:06:37 DEBUG ProductAspect:162 - 
+2018-12-20 17:06:37 DEBUG ProductAspect:163 - 
+2018-12-20 17:06:38 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:06:38 DEBUG ProductAspect:174 - Method End Time Is :: 1545305798676
+2018-12-20 17:06:38 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 1375 MilliSeconds
+2018-12-20 17:06:38 DEBUG ProductAspect:176 - 
+2018-12-20 17:06:38 DEBUG ProductAspect:177 - 
+2018-12-20 17:06:46 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:06:46 DEBUG ProductAspect:174 - Method End Time Is :: 1545305806967
+2018-12-20 17:06:46 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 9666 MilliSeconds
+2018-12-20 17:06:46 DEBUG ProductAspect:176 - 
+2018-12-20 17:06:46 DEBUG ProductAspect:177 - 
+2018-12-20 17:07:14 DEBUG ProductAspect:29 - 
+2018-12-20 17:07:14 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:07:14 IST 2018
+2018-12-20 17:07:14 DEBUG ProductAspect:32 - 
+2018-12-20 17:07:14 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:07:14 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 824424122
+2018-12-20 17:07:14 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305834141
+2018-12-20 17:07:14 DEBUG ProductAspect:162 - 
+2018-12-20 17:07:14 DEBUG ProductAspect:163 - 
+2018-12-20 17:07:14 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:07:14 DEBUG ProductAspect:174 - Method End Time Is :: 1545305834406
+2018-12-20 17:07:14 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 265 MilliSeconds
+2018-12-20 17:07:14 DEBUG ProductAspect:176 - 
+2018-12-20 17:07:14 DEBUG ProductAspect:177 - 
+2018-12-20 17:07:18 DEBUG ProductAspect:29 - 
+2018-12-20 17:07:18 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:07:18 IST 2018
+2018-12-20 17:07:18 DEBUG ProductAspect:32 - 
+2018-12-20 17:07:18 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:07:18 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1776296086
+2018-12-20 17:07:18 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305838456
+2018-12-20 17:07:18 DEBUG ProductAspect:162 - 
+2018-12-20 17:07:18 DEBUG ProductAspect:163 - 
+2018-12-20 17:07:18 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:07:18 DEBUG ProductAspect:174 - Method End Time Is :: 1545305838693
+2018-12-20 17:07:18 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 237 MilliSeconds
+2018-12-20 17:07:18 DEBUG ProductAspect:176 - 
+2018-12-20 17:07:18 DEBUG ProductAspect:177 - 
+2018-12-20 17:07:23 DEBUG ProductAspect:29 - 
+2018-12-20 17:07:23 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:07:23 IST 2018
+2018-12-20 17:07:23 DEBUG ProductAspect:32 - 
+2018-12-20 17:07:23 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:07:23 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 887150693
+2018-12-20 17:07:23 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305843899
+2018-12-20 17:07:23 DEBUG ProductAspect:162 - 
+2018-12-20 17:07:23 DEBUG ProductAspect:163 - 
+2018-12-20 17:07:24 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:07:24 DEBUG ProductAspect:174 - Method End Time Is :: 1545305844140
+2018-12-20 17:07:24 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 241 MilliSeconds
+2018-12-20 17:07:24 DEBUG ProductAspect:176 - 
+2018-12-20 17:07:24 DEBUG ProductAspect:177 - 
+2018-12-20 17:08:40 DEBUG ProductAspect:29 - 
+2018-12-20 17:08:40 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:08:40 IST 2018
+2018-12-20 17:08:40 DEBUG ProductAspect:32 - 
+2018-12-20 17:08:40 DEBUG ProductAspect:130 - Method Name Is :: getProduct
+2018-12-20 17:08:40 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 622304533
+2018-12-20 17:08:40 DEBUG ProductAspect:132 - Method Start Time Is :: 1545305920380
+2018-12-20 17:08:40 DEBUG ProductAspect:133 - 
+2018-12-20 17:08:40 DEBUG ProductAspect:134 - 
+2018-12-20 17:08:40 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:08:40 DEBUG ProductAspect:145 - Method End Time Is :: 1545305920623
+2018-12-20 17:08:40 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 243 MilliSeconds
+2018-12-20 17:08:40 DEBUG ProductAspect:147 - 
+2018-12-20 17:08:40 DEBUG ProductAspect:148 - 
+2018-12-20 17:08:51 DEBUG ProductAspect:29 - 
+2018-12-20 17:08:51 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:08:51 IST 2018
+2018-12-20 17:08:51 DEBUG ProductAspect:32 - 
+2018-12-20 17:08:51 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:08:51 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 619083544
+2018-12-20 17:08:51 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305931488
+2018-12-20 17:08:51 DEBUG ProductAspect:162 - 
+2018-12-20 17:08:51 DEBUG ProductAspect:163 - 
+2018-12-20 17:08:51 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:08:51 DEBUG ProductAspect:174 - Method End Time Is :: 1545305931780
+2018-12-20 17:08:51 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 292 MilliSeconds
+2018-12-20 17:08:51 DEBUG ProductAspect:176 - 
+2018-12-20 17:08:51 DEBUG ProductAspect:177 - 
+2018-12-20 17:09:01 DEBUG ProductAspect:29 - 
+2018-12-20 17:09:01 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:09:01 IST 2018
+2018-12-20 17:09:01 DEBUG ProductAspect:32 - 
+2018-12-20 17:09:01 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:09:01 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 497672973
+2018-12-20 17:09:01 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305941059
+2018-12-20 17:09:01 DEBUG ProductAspect:162 - 
+2018-12-20 17:09:01 DEBUG ProductAspect:163 - 
+2018-12-20 17:09:01 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:09:01 DEBUG ProductAspect:174 - Method End Time Is :: 1545305941293
+2018-12-20 17:09:01 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 234 MilliSeconds
+2018-12-20 17:09:01 DEBUG ProductAspect:176 - 
+2018-12-20 17:09:01 DEBUG ProductAspect:177 - 
+2018-12-20 17:09:04 DEBUG ProductAspect:29 - 
+2018-12-20 17:09:04 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:09:04 IST 2018
+2018-12-20 17:09:04 DEBUG ProductAspect:32 - 
+2018-12-20 17:09:04 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:09:04 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 149143616
+2018-12-20 17:09:04 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305944299
+2018-12-20 17:09:04 DEBUG ProductAspect:162 - 
+2018-12-20 17:09:04 DEBUG ProductAspect:163 - 
+2018-12-20 17:09:04 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:09:04 DEBUG ProductAspect:174 - Method End Time Is :: 1545305944580
+2018-12-20 17:09:04 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 281 MilliSeconds
+2018-12-20 17:09:04 DEBUG ProductAspect:176 - 
+2018-12-20 17:09:04 DEBUG ProductAspect:177 - 
+2018-12-20 17:09:09 DEBUG ProductAspect:29 - 
+2018-12-20 17:09:09 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:09:09 IST 2018
+2018-12-20 17:09:09 DEBUG ProductAspect:32 - 
+2018-12-20 17:09:09 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:09:09 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1471188559
+2018-12-20 17:09:09 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305949243
+2018-12-20 17:09:09 DEBUG ProductAspect:162 - 
+2018-12-20 17:09:09 DEBUG ProductAspect:163 - 
+2018-12-20 17:09:09 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:09:09 DEBUG ProductAspect:174 - Method End Time Is :: 1545305949495
+2018-12-20 17:09:09 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 252 MilliSeconds
+2018-12-20 17:09:09 DEBUG ProductAspect:176 - 
+2018-12-20 17:09:09 DEBUG ProductAspect:177 - 
+2018-12-20 17:09:28 DEBUG ProductAspect:29 - 
+2018-12-20 17:09:28 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:09:28 IST 2018
+2018-12-20 17:09:28 DEBUG ProductAspect:32 - 
+2018-12-20 17:09:28 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:09:28 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 2007269493
+2018-12-20 17:09:28 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305968363
+2018-12-20 17:09:28 DEBUG ProductAspect:162 - 
+2018-12-20 17:09:28 DEBUG ProductAspect:163 - 
+2018-12-20 17:09:28 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:09:28 DEBUG ProductAspect:174 - Method End Time Is :: 1545305968612
+2018-12-20 17:09:28 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 249 MilliSeconds
+2018-12-20 17:09:28 DEBUG ProductAspect:176 - 
+2018-12-20 17:09:28 DEBUG ProductAspect:177 - 
+2018-12-20 17:09:31 DEBUG ProductAspect:29 - 
+2018-12-20 17:09:31 DEBUG ProductAspect:31 - Method Is Calling On :: Thu Dec 20 17:09:31 IST 2018
+2018-12-20 17:09:31 DEBUG ProductAspect:32 - 
+2018-12-20 17:09:31 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-20 17:09:31 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1261826140
+2018-12-20 17:09:31 DEBUG ProductAspect:161 - Method Start Time Is :: 1545305971757
+2018-12-20 17:09:31 DEBUG ProductAspect:162 - 
+2018-12-20 17:09:31 DEBUG ProductAspect:163 - 
+2018-12-20 17:09:32 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-20 17:09:32 DEBUG ProductAspect:174 - Method End Time Is :: 1545305972019
+2018-12-20 17:09:32 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 262 MilliSeconds
+2018-12-20 17:09:32 DEBUG ProductAspect:176 - 
+2018-12-20 17:09:32 DEBUG ProductAspect:177 - 
+2018-12-21 18:13:44 DEBUG AdminUserAspect:29 - 
+2018-12-21 18:13:44 DEBUG AdminUserAspect:31 - Method Is Calling On :: Fri Dec 21 18:13:44 IST 2018
+2018-12-21 18:13:44 DEBUG AdminUserAspect:32 - 
+2018-12-21 18:13:44 DEBUG AdminUserAspect:72 - Method Name Is :: adminUserLogin
+2018-12-21 18:13:44 DEBUG AdminUserAspect:73 - Method Storing Memory Location Code Is :: 1848452678
+2018-12-21 18:13:44 DEBUG AdminUserAspect:74 - Method Start Time Is :: 1545396224808
+2018-12-21 18:13:44 DEBUG AdminUserAspect:75 - 
+2018-12-21 18:13:44 DEBUG AdminUserAspect:76 - 
+2018-12-21 18:13:47 DEBUG AdminUserAspect:86 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.AdminUserService
+2018-12-21 18:13:47 DEBUG AdminUserAspect:87 - Method End Time Is :: 1545396227449
+2018-12-21 18:13:47 DEBUG AdminUserAspect:88 - Method Total Time Taken Is :: 2641 MilliSeconds
+2018-12-21 18:13:47 DEBUG AdminUserAspect:89 - 
+2018-12-21 18:13:47 DEBUG AdminUserAspect:90 - 
+2018-12-21 21:03:08 DEBUG AdminUserAspect:29 - 
+2018-12-21 21:03:08 DEBUG AdminUserAspect:31 - Method Is Calling On :: Fri Dec 21 21:03:08 IST 2018
+2018-12-21 21:03:08 DEBUG AdminUserAspect:32 - 
+2018-12-21 21:03:08 DEBUG AdminUserAspect:72 - Method Name Is :: adminUserLogin
+2018-12-21 21:03:08 DEBUG AdminUserAspect:73 - Method Storing Memory Location Code Is :: 1229015131
+2018-12-21 21:03:08 DEBUG AdminUserAspect:74 - Method Start Time Is :: 1545406388446
+2018-12-21 21:03:08 DEBUG AdminUserAspect:75 - 
+2018-12-21 21:03:08 DEBUG AdminUserAspect:76 - 
+2018-12-21 21:03:10 DEBUG AdminUserAspect:86 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.AdminUserService
+2018-12-21 21:03:10 DEBUG AdminUserAspect:87 - Method End Time Is :: 1545406390941
+2018-12-21 21:03:10 DEBUG AdminUserAspect:88 - Method Total Time Taken Is :: 2495 MilliSeconds
+2018-12-21 21:03:10 DEBUG AdminUserAspect:89 - 
+2018-12-21 21:03:10 DEBUG AdminUserAspect:90 - 
+2018-12-21 21:04:44 DEBUG ProductAspect:29 - 
+2018-12-21 21:04:44 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:04:44 IST 2018
+2018-12-21 21:04:44 DEBUG ProductAspect:32 - 
+2018-12-21 21:04:44 DEBUG ProductAspect:43 - Method Name Is :: saveProduct
+2018-12-21 21:04:44 DEBUG ProductAspect:44 - Method Storing Memory Location Code Is :: 1739436974
+2018-12-21 21:04:44 DEBUG ProductAspect:45 - Method Start Time Is :: 1545406484385
+2018-12-21 21:04:44 DEBUG ProductAspect:46 - 
+2018-12-21 21:04:44 DEBUG ProductAspect:47 - 
+2018-12-21 21:04:44 DEBUG ProductAspect:57 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:04:44 DEBUG ProductAspect:58 - Method End Time Is :: 1545406484723
+2018-12-21 21:04:44 DEBUG ProductAspect:59 - Method Total Time Taken Is :: 338 MilliSeconds
+2018-12-21 21:04:44 DEBUG ProductAspect:60 - 
+2018-12-21 21:04:44 DEBUG ProductAspect:61 - 
+2018-12-21 21:04:53 DEBUG ProductAspect:29 - 
+2018-12-21 21:04:53 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:04:53 IST 2018
+2018-12-21 21:04:53 DEBUG ProductAspect:32 - 
+2018-12-21 21:04:53 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:04:53 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 2113735174
+2018-12-21 21:04:53 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406493007
+2018-12-21 21:04:53 DEBUG ProductAspect:162 - 
+2018-12-21 21:04:53 DEBUG ProductAspect:163 - 
+2018-12-21 21:04:53 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:04:53 DEBUG ProductAspect:174 - Method End Time Is :: 1545406493334
+2018-12-21 21:04:53 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 327 MilliSeconds
+2018-12-21 21:04:53 DEBUG ProductAspect:176 - 
+2018-12-21 21:04:53 DEBUG ProductAspect:177 - 
+2018-12-21 21:04:58 DEBUG ProductAspect:29 - 
+2018-12-21 21:04:58 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:04:58 IST 2018
+2018-12-21 21:04:58 DEBUG ProductAspect:32 - 
+2018-12-21 21:04:58 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:04:58 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 101274239
+2018-12-21 21:04:58 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406498525
+2018-12-21 21:04:58 DEBUG ProductAspect:162 - 
+2018-12-21 21:04:58 DEBUG ProductAspect:163 - 
+2018-12-21 21:04:58 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:04:58 DEBUG ProductAspect:174 - Method End Time Is :: 1545406498799
+2018-12-21 21:04:58 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 274 MilliSeconds
+2018-12-21 21:04:58 DEBUG ProductAspect:176 - 
+2018-12-21 21:04:58 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:00 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:00 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:00 IST 2018
+2018-12-21 21:05:00 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:00 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:00 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 186224074
+2018-12-21 21:05:00 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406500746
+2018-12-21 21:05:00 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:00 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:00 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:01 DEBUG ProductAspect:174 - Method End Time Is :: 1545406500999
+2018-12-21 21:05:01 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 253 MilliSeconds
+2018-12-21 21:05:01 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:01 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:03 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:03 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:03 IST 2018
+2018-12-21 21:05:03 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:03 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:03 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 185719231
+2018-12-21 21:05:03 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406503004
+2018-12-21 21:05:03 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:03 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:03 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:03 DEBUG ProductAspect:174 - Method End Time Is :: 1545406503457
+2018-12-21 21:05:03 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 453 MilliSeconds
+2018-12-21 21:05:03 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:03 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:06 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:06 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:06 IST 2018
+2018-12-21 21:05:06 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:06 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:06 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1124846810
+2018-12-21 21:05:06 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406506865
+2018-12-21 21:05:06 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:06 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:07 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:07 DEBUG ProductAspect:174 - Method End Time Is :: 1545406507105
+2018-12-21 21:05:07 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 240 MilliSeconds
+2018-12-21 21:05:07 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:07 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:13 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:13 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:13 IST 2018
+2018-12-21 21:05:13 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:13 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:13 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1807628889
+2018-12-21 21:05:13 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406513170
+2018-12-21 21:05:13 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:13 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:13 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:13 DEBUG ProductAspect:174 - Method End Time Is :: 1545406513442
+2018-12-21 21:05:13 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 272 MilliSeconds
+2018-12-21 21:05:13 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:13 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:18 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:18 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:18 IST 2018
+2018-12-21 21:05:18 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:18 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:18 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1201967203
+2018-12-21 21:05:18 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406518148
+2018-12-21 21:05:18 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:18 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:18 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:18 DEBUG ProductAspect:174 - Method End Time Is :: 1545406518507
+2018-12-21 21:05:18 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 359 MilliSeconds
+2018-12-21 21:05:18 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:18 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:23 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:23 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:23 IST 2018
+2018-12-21 21:05:23 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:23 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:23 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 594231592
+2018-12-21 21:05:23 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406523072
+2018-12-21 21:05:23 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:23 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:23 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:23 DEBUG ProductAspect:174 - Method End Time Is :: 1545406523425
+2018-12-21 21:05:23 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 353 MilliSeconds
+2018-12-21 21:05:23 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:23 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:28 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:28 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:28 IST 2018
+2018-12-21 21:05:28 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:28 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:28 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 151416069
+2018-12-21 21:05:28 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406528531
+2018-12-21 21:05:28 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:28 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:28 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:28 DEBUG ProductAspect:174 - Method End Time Is :: 1545406528810
+2018-12-21 21:05:28 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 279 MilliSeconds
+2018-12-21 21:05:28 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:28 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:33 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:33 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:33 IST 2018
+2018-12-21 21:05:33 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:33 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:33 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 56725431
+2018-12-21 21:05:33 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406533896
+2018-12-21 21:05:33 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:33 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:34 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:34 DEBUG ProductAspect:174 - Method End Time Is :: 1545406534172
+2018-12-21 21:05:34 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 276 MilliSeconds
+2018-12-21 21:05:34 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:34 DEBUG ProductAspect:177 - 
+2018-12-21 21:05:51 DEBUG ProductAspect:29 - 
+2018-12-21 21:05:51 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:05:51 IST 2018
+2018-12-21 21:05:51 DEBUG ProductAspect:32 - 
+2018-12-21 21:05:51 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:05:51 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1186442485
+2018-12-21 21:05:51 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406551356
+2018-12-21 21:05:51 DEBUG ProductAspect:162 - 
+2018-12-21 21:05:51 DEBUG ProductAspect:163 - 
+2018-12-21 21:05:51 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:05:51 DEBUG ProductAspect:174 - Method End Time Is :: 1545406551602
+2018-12-21 21:05:51 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 246 MilliSeconds
+2018-12-21 21:05:51 DEBUG ProductAspect:176 - 
+2018-12-21 21:05:51 DEBUG ProductAspect:177 - 
+2018-12-21 21:06:06 DEBUG ProductAspect:29 - 
+2018-12-21 21:06:06 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:06:06 IST 2018
+2018-12-21 21:06:06 DEBUG ProductAspect:32 - 
+2018-12-21 21:06:06 DEBUG ProductAspect:130 - Method Name Is :: getProduct
+2018-12-21 21:06:06 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 1283948548
+2018-12-21 21:06:06 DEBUG ProductAspect:132 - Method Start Time Is :: 1545406566605
+2018-12-21 21:06:06 DEBUG ProductAspect:133 - 
+2018-12-21 21:06:06 DEBUG ProductAspect:134 - 
+2018-12-21 21:06:06 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:06:06 DEBUG ProductAspect:145 - Method End Time Is :: 1545406566846
+2018-12-21 21:06:06 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 241 MilliSeconds
+2018-12-21 21:06:06 DEBUG ProductAspect:147 - 
+2018-12-21 21:06:06 DEBUG ProductAspect:148 - 
+2018-12-21 21:06:22 DEBUG ProductAspect:29 - 
+2018-12-21 21:06:22 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:06:22 IST 2018
+2018-12-21 21:06:22 DEBUG ProductAspect:32 - 
+2018-12-21 21:06:22 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2018-12-21 21:06:22 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1921149708
+2018-12-21 21:06:22 DEBUG ProductAspect:161 - Method Start Time Is :: 1545406582961
+2018-12-21 21:06:22 DEBUG ProductAspect:162 - 
+2018-12-21 21:06:22 DEBUG ProductAspect:163 - 
+2018-12-21 21:06:23 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:06:23 DEBUG ProductAspect:174 - Method End Time Is :: 1545406583234
+2018-12-21 21:06:23 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 273 MilliSeconds
+2018-12-21 21:06:23 DEBUG ProductAspect:176 - 
+2018-12-21 21:06:23 DEBUG ProductAspect:177 - 
+2018-12-21 21:06:29 DEBUG ProductAspect:29 - 
+2018-12-21 21:06:29 DEBUG ProductAspect:31 - Method Is Calling On :: Fri Dec 21 21:06:29 IST 2018
+2018-12-21 21:06:29 DEBUG ProductAspect:32 - 
+2018-12-21 21:06:29 DEBUG ProductAspect:101 - Method Name Is :: deleteProduct
+2018-12-21 21:06:29 DEBUG ProductAspect:102 - Method Storing Memory Location Code Is :: 1333542423
+2018-12-21 21:06:29 DEBUG ProductAspect:103 - Method Start Time Is :: 1545406589491
+2018-12-21 21:06:29 DEBUG ProductAspect:104 - 
+2018-12-21 21:06:29 DEBUG ProductAspect:105 - 
+2018-12-21 21:06:29 DEBUG ProductAspect:115 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2018-12-21 21:06:29 DEBUG ProductAspect:116 - Method End Time Is :: 1545406589766
+2018-12-21 21:06:29 DEBUG ProductAspect:117 - Method Total Time Taken Is :: 275 MilliSeconds
+2018-12-21 21:06:29 DEBUG ProductAspect:118 - 
+2018-12-21 21:06:29 DEBUG ProductAspect:119 - 
+2019-01-27 16:20:26 DEBUG AdminUserAspect:29 - 
+2019-01-27 16:20:26 DEBUG AdminUserAspect:31 - Method Is Calling On :: Sun Jan 27 16:20:26 IST 2019
+2019-01-27 16:20:26 DEBUG AdminUserAspect:32 - 
+2019-01-27 16:20:26 DEBUG AdminUserAspect:72 - Method Name Is :: adminUserLogin
+2019-01-27 16:20:26 DEBUG AdminUserAspect:73 - Method Storing Memory Location Code Is :: 35508017
+2019-01-27 16:20:26 DEBUG AdminUserAspect:74 - Method Start Time Is :: 1548586226365
+2019-01-27 16:20:26 DEBUG AdminUserAspect:75 - 
+2019-01-27 16:20:26 DEBUG AdminUserAspect:76 - 
+2019-01-27 16:20:28 DEBUG AdminUserAspect:86 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.AdminUserService
+2019-01-27 16:20:28 DEBUG AdminUserAspect:87 - Method End Time Is :: 1548586228861
+2019-01-27 16:20:28 DEBUG AdminUserAspect:88 - Method Total Time Taken Is :: 2496 MilliSeconds
+2019-01-27 16:20:28 DEBUG AdminUserAspect:89 - 
+2019-01-27 16:20:28 DEBUG AdminUserAspect:90 - 
+2019-01-27 16:23:26 DEBUG ProductAspect:29 - 
+2019-01-27 16:23:26 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 16:23:26 IST 2019
+2019-01-27 16:23:26 DEBUG ProductAspect:32 - 
+2019-01-27 16:23:26 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2019-01-27 16:23:26 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1657622325
+2019-01-27 16:23:26 DEBUG ProductAspect:161 - Method Start Time Is :: 1548586406715
+2019-01-27 16:23:26 DEBUG ProductAspect:162 - 
+2019-01-27 16:23:26 DEBUG ProductAspect:163 - 
+2019-01-27 16:23:27 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 16:23:27 DEBUG ProductAspect:174 - Method End Time Is :: 1548586407118
+2019-01-27 16:23:27 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 403 MilliSeconds
+2019-01-27 16:23:27 DEBUG ProductAspect:176 - 
+2019-01-27 16:23:27 DEBUG ProductAspect:177 - 
+2019-01-27 16:23:38 DEBUG ProductAspect:29 - 
+2019-01-27 16:23:38 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 16:23:38 IST 2019
+2019-01-27 16:23:38 DEBUG ProductAspect:32 - 
+2019-01-27 16:23:38 DEBUG ProductAspect:159 - Method Name Is :: getAllProductsByCategory
+2019-01-27 16:23:38 DEBUG ProductAspect:160 - Method Storing Memory Location Code Is :: 1460091115
+2019-01-27 16:23:38 DEBUG ProductAspect:161 - Method Start Time Is :: 1548586418810
+2019-01-27 16:23:38 DEBUG ProductAspect:162 - 
+2019-01-27 16:23:38 DEBUG ProductAspect:163 - 
+2019-01-27 16:23:39 DEBUG ProductAspect:173 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 16:23:39 DEBUG ProductAspect:174 - Method End Time Is :: 1548586419081
+2019-01-27 16:23:39 DEBUG ProductAspect:175 - Method Total Time Taken Is :: 271 MilliSeconds
+2019-01-27 16:23:39 DEBUG ProductAspect:176 - 
+2019-01-27 16:23:39 DEBUG ProductAspect:177 - 
+2019-01-27 22:38:52 DEBUG AdminUserAspect:29 - 
+2019-01-27 22:38:52 DEBUG AdminUserAspect:31 - Method Is Calling On :: Sun Jan 27 22:38:52 IST 2019
+2019-01-27 22:38:52 DEBUG AdminUserAspect:32 - 
+2019-01-27 22:38:52 DEBUG AdminUserAspect:72 - Method Name Is :: adminUserLogin
+2019-01-27 22:38:52 DEBUG AdminUserAspect:73 - Method Storing Memory Location Code Is :: 1055925461
+2019-01-27 22:38:52 DEBUG AdminUserAspect:74 - Method Start Time Is :: 1548608932065
+2019-01-27 22:38:52 DEBUG AdminUserAspect:75 - 
+2019-01-27 22:38:52 DEBUG AdminUserAspect:76 - 
+2019-01-27 22:38:54 DEBUG AdminUserAspect:86 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.AdminUserService
+2019-01-27 22:38:54 DEBUG AdminUserAspect:87 - Method End Time Is :: 1548608934523
+2019-01-27 22:38:54 DEBUG AdminUserAspect:88 - Method Total Time Taken Is :: 2458 MilliSeconds
+2019-01-27 22:38:54 DEBUG AdminUserAspect:89 - 
+2019-01-27 22:38:54 DEBUG AdminUserAspect:90 - 
+2019-01-27 22:39:38 DEBUG ProductAspect:29 - 
+2019-01-27 22:39:38 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 22:39:38 IST 2019
+2019-01-27 22:39:38 DEBUG ProductAspect:32 - 
+2019-01-27 22:39:38 DEBUG ProductAspect:130 - Method Name Is :: getAllProductsByCategory
+2019-01-27 22:39:38 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 1928073571
+2019-01-27 22:39:38 DEBUG ProductAspect:132 - Method Start Time Is :: 1548608978072
+2019-01-27 22:39:38 DEBUG ProductAspect:133 - 
+2019-01-27 22:39:38 DEBUG ProductAspect:134 - 
+2019-01-27 22:39:38 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 22:39:38 DEBUG ProductAspect:145 - Method End Time Is :: 1548608978348
+2019-01-27 22:39:38 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 276 MilliSeconds
+2019-01-27 22:39:38 DEBUG ProductAspect:147 - 
+2019-01-27 22:39:38 DEBUG ProductAspect:148 - 
+2019-01-27 22:39:42 DEBUG ProductAspect:29 - 
+2019-01-27 22:39:42 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 22:39:42 IST 2019
+2019-01-27 22:39:42 DEBUG ProductAspect:32 - 
+2019-01-27 22:39:42 DEBUG ProductAspect:101 - Method Name Is :: getProduct
+2019-01-27 22:39:42 DEBUG ProductAspect:102 - Method Storing Memory Location Code Is :: 1837340856
+2019-01-27 22:39:42 DEBUG ProductAspect:103 - Method Start Time Is :: 1548608982078
+2019-01-27 22:39:42 DEBUG ProductAspect:104 - 
+2019-01-27 22:39:42 DEBUG ProductAspect:105 - 
+2019-01-27 22:39:42 DEBUG ProductAspect:115 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 22:39:42 DEBUG ProductAspect:116 - Method End Time Is :: 1548608982414
+2019-01-27 22:39:42 DEBUG ProductAspect:117 - Method Total Time Taken Is :: 336 MilliSeconds
+2019-01-27 22:39:42 DEBUG ProductAspect:118 - 
+2019-01-27 22:39:42 DEBUG ProductAspect:119 - 
+2019-01-27 22:41:32 DEBUG AdminUserAspect:29 - 
+2019-01-27 22:41:32 DEBUG AdminUserAspect:31 - Method Is Calling On :: Sun Jan 27 22:41:32 IST 2019
+2019-01-27 22:41:32 DEBUG AdminUserAspect:32 - 
+2019-01-27 22:41:32 DEBUG AdminUserAspect:72 - Method Name Is :: adminUserLogin
+2019-01-27 22:41:32 DEBUG AdminUserAspect:73 - Method Storing Memory Location Code Is :: 24663703
+2019-01-27 22:41:32 DEBUG AdminUserAspect:74 - Method Start Time Is :: 1548609092562
+2019-01-27 22:41:32 DEBUG AdminUserAspect:75 - 
+2019-01-27 22:41:32 DEBUG AdminUserAspect:76 - 
+2019-01-27 22:41:32 DEBUG AdminUserAspect:86 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.AdminUserService
+2019-01-27 22:41:32 DEBUG AdminUserAspect:87 - Method End Time Is :: 1548609092842
+2019-01-27 22:41:32 DEBUG AdminUserAspect:88 - Method Total Time Taken Is :: 280 MilliSeconds
+2019-01-27 22:41:32 DEBUG AdminUserAspect:89 - 
+2019-01-27 22:41:32 DEBUG AdminUserAspect:90 - 
+2019-01-27 22:41:41 DEBUG ProductAspect:29 - 
+2019-01-27 22:41:41 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 22:41:41 IST 2019
+2019-01-27 22:41:41 DEBUG ProductAspect:32 - 
+2019-01-27 22:41:41 DEBUG ProductAspect:130 - Method Name Is :: getAllProductsByCategory
+2019-01-27 22:41:41 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 1982039119
+2019-01-27 22:41:41 DEBUG ProductAspect:132 - Method Start Time Is :: 1548609101437
+2019-01-27 22:41:41 DEBUG ProductAspect:133 - 
+2019-01-27 22:41:41 DEBUG ProductAspect:134 - 
+2019-01-27 22:41:41 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 22:41:41 DEBUG ProductAspect:145 - Method End Time Is :: 1548609101839
+2019-01-27 22:41:41 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 402 MilliSeconds
+2019-01-27 22:41:41 DEBUG ProductAspect:147 - 
+2019-01-27 22:41:41 DEBUG ProductAspect:148 - 
+2019-01-27 22:41:55 DEBUG ProductAspect:29 - 
+2019-01-27 22:41:55 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 22:41:55 IST 2019
+2019-01-27 22:41:55 DEBUG ProductAspect:32 - 
+2019-01-27 22:41:55 DEBUG ProductAspect:101 - Method Name Is :: getProduct
+2019-01-27 22:41:55 DEBUG ProductAspect:102 - Method Storing Memory Location Code Is :: 1064485304
+2019-01-27 22:41:55 DEBUG ProductAspect:103 - Method Start Time Is :: 1548609115660
+2019-01-27 22:41:55 DEBUG ProductAspect:104 - 
+2019-01-27 22:41:55 DEBUG ProductAspect:105 - 
+2019-01-27 22:41:55 DEBUG ProductAspect:115 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 22:41:55 DEBUG ProductAspect:116 - Method End Time Is :: 1548609115937
+2019-01-27 22:41:55 DEBUG ProductAspect:117 - Method Total Time Taken Is :: 277 MilliSeconds
+2019-01-27 22:41:55 DEBUG ProductAspect:118 - 
+2019-01-27 22:41:55 DEBUG ProductAspect:119 - 
+2019-01-27 22:42:24 DEBUG ProductAspect:29 - 
+2019-01-27 22:42:24 DEBUG ProductAspect:31 - Method Is Calling On :: Sun Jan 27 22:42:24 IST 2019
+2019-01-27 22:42:24 DEBUG ProductAspect:32 - 
+2019-01-27 22:42:24 DEBUG ProductAspect:130 - Method Name Is :: getAllProductsByCategory
+2019-01-27 22:42:24 DEBUG ProductAspect:131 - Method Storing Memory Location Code Is :: 174329643
+2019-01-27 22:42:24 DEBUG ProductAspect:132 - Method Start Time Is :: 1548609144344
+2019-01-27 22:42:24 DEBUG ProductAspect:133 - 
+2019-01-27 22:42:24 DEBUG ProductAspect:134 - 
+2019-01-27 22:42:24 DEBUG ProductAspect:144 - Method Declaring Type Is :: class com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.service.ProductService
+2019-01-27 22:42:24 DEBUG ProductAspect:145 - Method End Time Is :: 1548609144607
+2019-01-27 22:42:24 DEBUG ProductAspect:146 - Method Total Time Taken Is :: 263 MilliSeconds
+2019-01-27 22:42:24 DEBUG ProductAspect:147 - 
+2019-01-27 22:42:24 DEBUG ProductAspect:148 - 

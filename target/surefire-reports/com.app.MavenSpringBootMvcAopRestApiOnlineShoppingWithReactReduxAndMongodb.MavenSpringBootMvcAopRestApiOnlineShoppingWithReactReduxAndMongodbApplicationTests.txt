@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.87 s - in com.app.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodb.MavenSpringBootMvcAopRestApiOnlineShoppingWithReactReduxAndMongodbApplicationTests
