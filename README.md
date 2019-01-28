@@ -7,7 +7,7 @@
 [![Coverage](https://img.shields.io/coveralls/jaredhanson/passport-twitter.svg)](https://coveralls.io/r/jaredhanson/passport-twitter)
 [![Quality](https://img.shields.io/codeclimate/github/jaredhanson/passport-twitter.svg?label=quality)](https://codeclimate.com/github/jaredhanson/passport-twitter)
 
-## SpringBoot OnlineShoppingAdmin With ReactRedux And Mongodb
+## SpringBoot OnlineShoppingAdminDashboard With ReactRedux And Mongodb
 
 This Is Online Shopping Admin Dashboard Full Stack Web Based Project
 
