@@ -23,9 +23,7 @@ File Name AdminDataMongodb In Resources Folder Of This Project Contain Admin Use
 
 #### Heroku Live Project Url
 
-```bash
-https://tarunshoppyadmin.herokuapp.com
-```
+[https://tarunshoppyadmin.herokuapp.com](https://tarunshoppyadmin.herokuapp.com)
 
 #### Frontend Technologies
 
